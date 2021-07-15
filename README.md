@@ -1,46 +1,95 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h3 align="center">Discord</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p align="center">
+    Copia do layout do discord
+    <br />
+  </p>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Tópicos</summary>
+  <ol>
+    <li>
+      <a href="#sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#como-instalar">Como instalar</a>
+      <ul>
+        <li><a href="#pre-requisitos">Pré-requisitos</a></li>
+        <li><a href="#instalacao">Intalação</a></li>
+      </ul>
+    </li>
+    <li><a href="#autor">Autor</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<!-- ABOUT THE PROJECT -->
+## Sobre o projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h1 align="center">
+  <img alt="discord" title="#discord" src="src/assets/Screenshot_1.png" />
+</h1>
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### 🚀Tecnologias utilizadas
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [ReactJS](https://pt-br.reactjs.org/)
+* [Figma](https://www.figma.com/)
+* [TypeScript](https://www.typescriptlang.org/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<!-- GETTING STARTED -->
+## Como instalar 💻
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Pré-requisitos
 
-## Learn More
+Para a instalação da aplicação é necessário ter o Node instalado na sua máquina, já o yarn é opcional, segue os comandos para instalação atravé do terminal de comando:
+* Node
+* Npm ou Yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Instalação
+
+* Atráves do npm
+  ```sh
+  yarn
+  ```
+OU
+* Atráves do yarn
+  ```sh
+  npm
+  ```
+
+Assim criará a pasta node_modules. Em seguida basta digitar:
+
+   ```sh
+   yarn start
+   ```
+OU 
+
+   ```sh
+   npm start
+   ```
+
+ ---
+ ### ✨Autor
+
+[Jonas de Souza](https://www.linkedin.com/in/jonas-de-souza-95091b186/)<br/>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-de-souza-95091b186/)](https://www.linkedin.com/in/jonas-de-souza-95091b186/) 
+[![Gmail Badge](https://img.shields.io/badge/-joonascontato@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonascontato@gmail.com)](mailto:joonascontato@gmail.com)
